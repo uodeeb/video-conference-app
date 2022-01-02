@@ -1,0 +1,25 @@
+.jsx-2122962381 {
+    display: none;
+}
+
+#container {
+    width: 100vw;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.room {
+    width: 10vw;
+    height: 4vh;
+    background-color: cadetblue;
+    border-radius: 10px;
+}
+#logo {
+    width: 10vw;
+
+}
+
+/* #loader {
+    width: 40vw;
+    height: 20vh;
+} */
